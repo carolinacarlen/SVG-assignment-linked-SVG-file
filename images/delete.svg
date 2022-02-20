@@ -1,0 +1,22 @@
+<svg version="1.1" xlmns="http://www.w3.org/2000/svg" x="0px" y="0px" 
+        width="250px" height="250px" viewbox="0 0 250 250" xml:space="preserve">
+      <symbol id="delete-sign" viewbox="0 0 250 250">  
+      <circle r="120" cx="125" cy="125" fill="red" />
+      <line
+        x1="80"
+        y1="90"
+        x2="170"
+        y2="170"
+        stroke="white"
+        stroke-width="10">
+      </line>
+      <line
+        x1="170"
+        y1="90"
+        x2="80"
+        y2="170"
+        stroke="white"
+        stroke-width="10">
+        </line>
+      </symbol>
+</svg>
